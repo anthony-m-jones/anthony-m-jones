@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthony-m-jones
-- 👀 I’m interested in creating intuitive and visually pleasing user experience. Also looking to utilize computer science, physics, and mathematics concepts to creative physics simulations.
-- 🌱 I’m currently reviewing physics mathematics and C++ and learning some new simulation tools.
+- 👀 I’m interested in learning new things, especially with a focus on mathematics, physics, and computer science concepts.
+- 🌱 Currently implementing physics concepts using OpenGL and C++.
 - 📫 How to reach me anthony.m.jones111@gmail.com
 
 <!---
