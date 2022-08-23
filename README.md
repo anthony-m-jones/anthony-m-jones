@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @anthony-m-jones
-- 👀 I’m interested in learning new things, especially with a focus on mathematics, physics, and computer science concepts.
-- 🌱 Currently implementing physics concepts using OpenGL and C++.
 - 📫 How to reach me anthony.m.jones111@gmail.com
 
 <!---
